@@ -2,6 +2,8 @@
 
 A local Streamlit application that classifies HR policy paragraphs into five categories using a fine-tuned DistilGPT-2 model. Classification is implemented as text generation: each training paragraph is followed by one special category token, and inference selects the highest-scoring category token.
 
+[![Built with askThili](https://msrit.ask.thili.ai/api/v1/public/projects/9yhzu7y52a/badge.svg)](https://msrit.ask.thili.ai/b/9yhzu7y52a)
+
 > **Prototype notice:** The included CSV contains synthetic example paragraphs for learning and demonstration. It is not a real company's policy dataset. Model confidence is not a guarantee; an HR professional should review results before routing or taking action.
 
 ## Categories
