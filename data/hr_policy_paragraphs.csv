@@ -1,0 +1,51 @@
+text,label
+"Employees who have completed six months of service may apply for annual leave through the employee portal. Leave requests should be submitted to the reporting manager for approval.",leave_policy
+"Eligible employees receive twelve days of paid casual leave each calendar year. Unused casual leave is not carried forward to the next year.",leave_policy
+"Sick leave may be requested when an employee is unable to work due to illness. A medical certificate may be requested for extended absence.",leave_policy
+"Maternity and parental leave are provided in accordance with applicable law and the organization's leave procedures. Employees should contact HR before the planned leave period.",leave_policy
+"Annual leave should be planned with the team lead so that business operations are adequately covered during the employee's absence.",leave_policy
+"A leave cancellation request must be submitted through the HR portal and approved by the reporting manager before the original leave dates.",leave_policy
+"Employees joining during the year receive a prorated leave balance based on their date of joining and applicable company policy.",leave_policy
+"Public holidays are announced by HR at the beginning of each calendar year. A holiday falling during approved annual leave is handled according to the leave rules.",leave_policy
+"Leave without pay may be considered when paid leave balances are exhausted, subject to manager approval and HR review.",leave_policy
+"Employees should check their available leave balance before submitting a request. The portal displays approved, pending, and remaining leave days.",leave_policy
+"Business travel expenses must be recorded in the expense portal with itemized receipts. Claims should be submitted within thirty days of returning from travel.",expense_claim
+"Employees may claim reimbursement for approved business meals up to the limits in the travel and expense schedule. Personal purchases are not reimbursable.",expense_claim
+"Taxi fares are reimbursable when public transport is unavailable or when travel is required outside normal operating hours, provided a receipt is attached.",expense_claim
+"A manager must approve travel expenses before the trip is booked. Reimbursement requests without the required approval may be returned.",expense_claim
+"Expense claims must include the date, business purpose, cost centre, amount, and supporting receipt for each transaction.",expense_claim
+"The finance team reviews submitted claims and may request additional documentation before processing payment.",expense_claim
+"Employees using a personal vehicle for approved business travel may claim mileage at the rate published by Finance.",expense_claim
+"Hotel accommodation should follow the approved city-wise limits. Any exception requires written approval from the department head.",expense_claim
+"Corporate card transactions must be reconciled monthly. Employees should identify the business purpose for each transaction in the expense system.",expense_claim
+"Reimbursements are normally paid through payroll or the designated payment process after Finance completes its review.",expense_claim
+"Employees must record their start time, end time, and breaks using the attendance system each working day.",attendance_policy
+"The standard office schedule is Monday to Friday. Employees should follow the working hours assigned to their team and location.",attendance_policy
+"If an employee expects to arrive late, they should notify their manager and record the correct attendance information in the system.",attendance_policy
+"Any correction to a missed attendance punch must be submitted through the attendance portal with a brief explanation.",attendance_policy
+"Overtime must be approved by the manager in advance and recorded in the timekeeping system for review.",attendance_policy
+"Employees are expected to maintain accurate attendance records. Repeated unexplained absences may be referred to HR.",attendance_policy
+"Shift-based employees must follow the roster published by their supervisor. Shift swaps require prior approval.",attendance_policy
+"The attendance period closes at the end of each month. Employees should resolve pending corrections before the monthly cutoff.",attendance_policy
+"Short breaks and meal periods should be taken according to the schedule applicable to the employee's location and team.",attendance_policy
+"Employees working at a client site must follow the site attendance process and also notify their internal manager of exceptions.",attendance_policy
+"Eligible employees may work remotely on approved days after agreeing on availability and deliverables with their manager.",remote_work
+"Employees working from home must protect company information and use approved devices, networks, and security controls.",remote_work
+"Remote employees should remain reachable during agreed core hours and attend scheduled team meetings using approved collaboration tools.",remote_work
+"A remote work arrangement may be reviewed when role requirements, performance needs, or business conditions change.",remote_work
+"Employees must report any loss of a company device used outside the office to IT and their manager as soon as possible.",remote_work
+"Confidential documents should not be printed or left visible in shared spaces when an employee is working remotely.",remote_work
+"Managers should agree measurable outcomes with remote team members and review progress during regular one-to-one meetings.",remote_work
+"Employees planning to work from another city or country must obtain written approval before making the arrangement.",remote_work
+"Video calls should be conducted from a suitable environment where confidential conversations cannot be overheard.",remote_work
+"Remote work does not change the employee's responsibility to follow working hours, attendance, and information security policies.",remote_work
+"Open positions must have an approved requisition before a recruiter begins advertising or sourcing candidates.",recruitment_policy
+"Candidate applications should be reviewed against the published role requirements using consistent and job-related criteria.",recruitment_policy
+"Interviewers must submit structured feedback through the recruitment system promptly after each interview.",recruitment_policy
+"Recruiters should obtain candidate consent before sharing personal information with external assessment providers.",recruitment_policy
+"Employment offers must be approved by the hiring manager and HR before they are sent to a selected candidate.",recruitment_policy
+"Background verification is conducted for selected candidates in accordance with applicable law and the organization's hiring process.",recruitment_policy
+"Interview questions should relate to the role and must not seek information that is unrelated to the candidate's ability to perform the job.",recruitment_policy
+"Recruitment records should be retained and accessed only by authorized employees for legitimate hiring purposes.",recruitment_policy
+"A hiring manager should document the reason for selecting a candidate and retain interview feedback in the recruitment system.",recruitment_policy
+"Internal candidates may apply for advertised vacancies through the same recruitment portal and selection process.",recruitment_policy
